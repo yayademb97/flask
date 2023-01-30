@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 1000px;
+    width: 950px;
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+#red {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+#green {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+#blue {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+#yellow {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}

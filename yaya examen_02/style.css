@@ -1,0 +1,248 @@
+/* Container-Styling-Start */
+.container {
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* Container-Styling-End */
+/* Header-Styling-Start */
+/* Nav-Bar1-Styling-Start */
+.nav-bar1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(255, 255reen, 255);
+    color: #2d2d2d;
+    font-family: 'Robot', sans-serif;
+
+}
+
+.nav-bar1 h1 {
+    font-size: 1.8rem;
+    margin-left: 10px;
+
+}
+
+.nav-bar1 p {
+    flex-direction: column;
+}
+
+/* Nav-Bar1-Styling-End */
+/* Nav-Bar2-Styling-Start */
+.nav-bar2 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #2d2d2d;
+    color: white;
+    font-family: 'ROboto', sans-serif;
+    width: 200;
+}
+
+.nav-bar2 .a {
+    margin-left: 102px;
+    background-color: red;
+    transform: skew(160deg);
+
+}
+
+.nav-bar2 .g {
+    margin-right: 101px;
+}
+
+.nav-bar2 img {
+    width: 40px;
+    margin-top: 20px;
+}
+
+/* Nav-Bar2-Styling-End */
+/* Main-Styling-Start */
+.main {
+    background-color: rgb(221, 221, 221);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+/* Main-Left-Styling-Start */
+.main-left {
+    width: 300px;
+}
+
+.yaya {
+    background-color: rgb(255, 255, 255);
+    ;
+    border: 1px solid black;
+    height: 200px;
+    /* width: 200px; */
+    /* text-align: center; */
+    border-style: none;
+    border-radius: 10%;
+    padding: 10px;
+}
+
+/* .yaya h2{
+    text-decoration-line: ;
+} */
+.demb {
+    border: 1px solid black;
+    height: 100px;
+    /* width: 200px; */
+    border-style: none;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10%;
+}
+
+.btn1 {
+    background-color: rgb(82, 139, 231);
+    box-shadow: 2px 2px black;
+    color: white;
+    width: 80px;
+}
+
+.btn2 {
+    box-shadow: 0 2px 2px 0;
+    background-color: rgb(255, 255, 255);
+    width: 80px;
+
+}
+
+.dojo {
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+    /* width: 200px; */
+    text-align: center;
+    border-radius: 10%;
+}
+
+.btn3 {
+    width: 130px;
+    background-color: #ffe599;
+    box-shadow: 2px 2px black;
+
+}
+
+/* Main-Left-Styling-End */
+/* Main-Right-Styling-Start */
+.main-right {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10%;
+
+}
+
+.main-right h2 {
+    text-align: center;
+}
+
+.main-right .lv {
+    color: red;
+    margin-left: 30px;
+}
+
+.live .ninja {
+    margin-right: 130px;
+}
+
+.live {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3rem;
+}
+
+.main-right .aa {
+    display: flex;
+    justify-content: space-around;
+}
+
+.coding {
+    display: flex;
+    border-bottom: 2px solid black;
+
+}
+
+.day {
+    margin-left: 15px;
+}
+
+.day .san {
+    margin-left: 80px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    font-size: 1.0rem;
+}
+
+.day .ja {
+    color: rgb(82, 139, 231);
+    ;
+    margin-left: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8rem;
+    margin-bottom: 50px;
+}
+
+.day .week {
+    margin-top: 50px;
+}
+
+.vs {
+    align-items: center;
+    margin-left: 80px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3rem;
+    margin-top: 150px;
+}
+
+.rem {
+    margin-top: 103px;
+    margin-right: 100px;
+    margin-left: 60px;
+}
+
+.week .th {
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.month .nova {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.month .pirates {
+    color: red;
+    margin-left: 70px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8rem;
+    /* margin-bottom: 50px; */
+}
+
+.month .w {
+    margin-left: 80px;
+    /* margin-bottom: 50px; */
+}
+
+.month .score {
+    margin-bottom: 100px;
+}
+
+.footer {
+    justify-content: center;
+    margin-left: 100px;
+
+}
+
+.score1 {
+    margin-left: 70px;
+    margin-bottom: 10px;
+}
+
+.score12 {
+    font-size: 40PX;
+    margin-left: 70px;
+    font-weight: bolder;
+
+}
+
+/* Main-Right-Styling-End */
+/* Main-Styling-End */

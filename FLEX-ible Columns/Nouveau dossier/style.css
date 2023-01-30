@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.all {
+    background-color: rgb(224, 211, 211);
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+.first {
+    background-color: hotpink;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px;
+    padding: 20px;
+}
+
+.secund {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+}
+.third
+{
+    display: flex;
+    margin: 20px;
+    padding:20px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aqua;
+}
